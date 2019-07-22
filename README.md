@@ -1,4 +1,5 @@
-# kodilla-Projekt2
+# kodilla-Projekt3
 
-https://grygikrz.github.io/kodilla-Projekt2/
+https://grygikrz.github.io/kodilla-projekt-3/
+
 # kodilla-projekt-3
